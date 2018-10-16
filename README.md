@@ -89,7 +89,7 @@
 
 PDF원본파일은 국회의원 정치자금 사용내역 공개 페이지에서 의원명으로 검색하신 뒤, 하단에서 연도별로 받으실 수 있습니다.
 
-[오마이뉴스 국회의원 정치자금 공개 페이지](omn.kr)
+[오마이뉴스 국회의원 정치자금 공개 페이지](http://www.ohmynews.com/NWS_Web/Event/Special/20spf.aspx)
 
 ### 분류기준
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;분&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;류&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|내용
